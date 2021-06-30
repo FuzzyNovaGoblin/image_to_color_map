@@ -1,5 +1,5 @@
 [package]
-name = "image_manip"
+name = "image_to_color_map"
 version = "0.1.0"
 authors = ["FuzzyNovaGoblin <fuzzy.nova.goblin@outlook.com>"]
 edition = "2018"

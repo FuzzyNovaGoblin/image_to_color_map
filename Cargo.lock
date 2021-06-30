@@ -157,7 +157,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "image_manip"
+name = "image_to_color_map"
 version = "0.1.0"
 dependencies = [
  "image",
